@@ -2,10 +2,10 @@ const Portfolio = function() {
 	function makeWords() {
 		var words = [
 			{
-				text: "cruising",
+				text: "Cruising",
 				weight: 12.3
 			}, {
-				text: "gucci",
+				text: "Indie Folk",
 				weight: 8
 			}, {
 				text: "Hacker",
@@ -14,16 +14,16 @@ const Portfolio = function() {
 				text: "DL",
 				weight: 3
 			}, {
-				text: "puppy",
+				text: "Puppy Person",
 				weight: 7
 			}, {
-				text: "Py",
+				text: "Traveller",
 				weight: 10
 			}, {
-				text: "Vibes",
+				text: "Good Vibes Only",
 				weight: 9
 			}, {
-				text: "golfing",
+				text: "Golfer",
 				weight: 7
 			}
 		];
@@ -31,7 +31,7 @@ const Portfolio = function() {
 	}
 
 	function makeWordCloud(words) {
-		$('.teaching-domains').jQCloud(words, {delay: 120});
+		$('.teaching-domains').jQCloud(words, {delay: 300});
 	}
 
 	function displayWordCloud() {
