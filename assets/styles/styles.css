@@ -279,8 +279,11 @@ h1, h2, h3, h4, h5, h6 {
 
 /*** Footer Call-to-action ***/
 #footer-cta {
-	background-color: rgba(255, 103, 68, 0.91);
-	padding: 6em 4em 5.6em;
+	height: 100%;
+	background-position: center;
+ 	background-repeat: no-repeat;
+  	background-size: cover;
+	padding: 6em 5em 5.6em;
 }
 
 #footer-cta h2 {
