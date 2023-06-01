@@ -37,6 +37,36 @@ const Portfolio = function() {
 			},  {
 				text: "Foodie",
 				weight: 5
+			},  {
+				text: "Strategist",
+				weight: 4
+			},  {
+				text: "Consultant",
+				weight: 7
+			},  {
+				text: "Investor",
+				weight: 9
+			},  {
+				text: "Collector",
+				weight: 4
+			},  {
+				text: "Entreprenuer",
+				weight: 9
+			},  {
+				text: "Bengali",
+				weight: 8
+			},  {
+				text: "Developer",
+				weight: 5
+			},  {
+				text: "Promoter",
+				weight: 10
+			},  {
+				text: "Artificial Intelligence",
+				weight: 7
+			},  {
+				text: "Programmer",
+				weight: 11
 			},
 		];
 		return words;
