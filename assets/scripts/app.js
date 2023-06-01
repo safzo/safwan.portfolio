@@ -2,25 +2,25 @@ const Portfolio = function() {
 	function makeWords() {
 		var words = [
 			{
-				text: "Cruising",
+				text: "Analyst",
 				weight: 12.3
 			}, {
-				text: "Indie Folk",
+				text: "Indie & Alternative",
 				weight: 8
 			}, {
-				text: "Hacker",
+				text: "Optimizer",
 				weight: 14
 			}, {
-				text: "DL",
+				text: "Scientist",
 				weight: 3
 			}, {
-				text: "Puppy Person",
+				text: "Researcher",
 				weight: 7
 			}, {
-				text: "Traveller",
+				text: "GlobeTrotter",
 				weight: 10
 			}, {
-				text: "Good Vibes Only",
+				text: "Formula1",
 				weight: 9
 			}, {
 				text: "Golfer",
