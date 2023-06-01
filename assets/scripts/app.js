@@ -5,7 +5,7 @@ const Portfolio = function() {
 				text: "Analyst",
 				weight: 12.3
 			}, {
-				text: "Indie & Alternative",
+				text: "Indie audiophile",
 				weight: 8
 			}, {
 				text: "Optimizer",
@@ -17,7 +17,7 @@ const Portfolio = function() {
 				text: "Researcher",
 				weight: 7
 			}, {
-				text: "GlobeTrotter",
+				text: "Adventurer",
 				weight: 10
 			}, {
 				text: "Formula1",
@@ -25,7 +25,19 @@ const Portfolio = function() {
 			}, {
 				text: "Golfer",
 				weight: 7
-			}
+			}, {
+				text: "Team Player",
+				weight: 6
+			}, {
+				text: "Gambler",
+				weight: 4
+			}, {
+				text: "Problem Solver",
+				weight: 10
+			},  {
+				text: "Foodie",
+				weight: 5
+			},
 		];
 		return words;
 	}
