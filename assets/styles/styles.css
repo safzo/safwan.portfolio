@@ -257,44 +257,23 @@ h1, h2, h3, h4, h5, h6 {
 	margin-top: -4em;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*** Footer Call-to-action ***/
 #footer-cta {
-	height: 100%;
-	background-position: center;
- 	background-repeat: no-repeat;
-  	background-size: cover;
-	padding: 6em 5em 5.6em;
+	background-color: #4c6d86;
+	padding: 6em 4em 5.6em;
 }
 
 #footer-cta h2 {
-	color: white;
+	color: #fff;
+	margin-bottom: .7em;
 }
 
 #footer-cta p {
-	color: #fff;
+	color: #738182;
 	font-family: "Maven pro", sans-serif;
 	font-weight: 500;
 	font-size: 1.2em;
+	margin-bottom: 1.8em;
 }
 
 #startButtonDiv {
@@ -302,15 +281,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer-cta a {
-	border: 2px solid #fff;
-	border-radius: 45px;
-	color: #fff;
+	color: rgba(255, 103, 68, 0.91);
+	border: 2px solid rgba(255, 103, 68, 0.91) !important;
+	background-color: #fff;
 }
 
 #footer-cta a:hover {
-	background: #fff;
-	color: rgba(255, 103, 68, 0.91);
-	box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);
+	background-color: rgba(255, 103, 68, 0.91) !important;
+	color: #fff;
 }
 
 /*** footer starts ***/
