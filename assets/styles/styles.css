@@ -264,12 +264,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer-cta h2 {
-	color: #fff;
+	color: white;
 	margin-bottom: .7em;
 }
 
 #footer-cta p {
-	color: #738182;
+	color: white;
 	font-family: "Maven pro", sans-serif;
 	font-weight: 500;
 	font-size: 1.2em;
